@@ -15,6 +15,7 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 		plugin = {"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/Automation.html", "pretty", "json:target/cucumber-reports/Automation.json"},
 		tags= {},
 		monochrome = true
+		
 		)
 
 public class TestRunner extends AbstractTestNGCucumberTests  {
