@@ -1,0 +1,81 @@
+2021-12-02 19:18:31,969  INFO [main] Hooks:21 - Launching chrome browser
+ 2021-12-02 19:18:36,459  INFO [main] Login_Execution:38 - Application URl is loaded
+ 2021-12-02 19:18:36,629  INFO [main] Login_Execution:56 - Passed the value of username
+ 2021-12-02 19:18:36,772  INFO [main] Login_Execution:59 - Passed the value of password
+ 2021-12-02 19:18:41,985  INFO [main] Login_Execution:78 - login button is clicked
+ 2021-12-02 19:18:42,102  INFO [main] Login_Execution:91 - User logged in successfully
+ 2021-12-02 19:18:42,186  INFO [main] Hooks:28 - close the browser
+ 2021-12-03 19:06:57,217  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-03 19:07:02,725  INFO [main] Login_cases:34 - Application URl is loaded
+ 2021-12-03 19:07:03,282  INFO [main] Login_cases:41 - Passed the value of username
+ 2021-12-03 19:07:03,328  INFO [main] Login_cases:43 - Passed the value of password
+ 2021-12-03 19:07:08,064  INFO [main] Login_cases:72 - login button is clicked
+ 2021-12-03 19:07:08,164  INFO [main] Login_cases:82 - User logged in successfully
+ 2021-12-03 19:07:08,227  INFO [main] Hooks:64 - close the browser
+ 2021-12-03 19:09:54,254  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-03 19:09:59,204  INFO [main] Login_cases:34 - Application URl is loaded
+ 2021-12-03 19:09:59,570  INFO [main] Login_cases:41 - Passed the value of username
+ 2021-12-03 19:09:59,617  INFO [main] Login_cases:43 - Passed the value of password
+ 2021-12-03 19:10:04,406  INFO [main] Login_cases:72 - login button is clicked
+ 2021-12-03 19:10:04,460  INFO [main] Login_cases:82 - User logged in successfully
+ 2021-12-03 19:10:04,524  INFO [main] Hooks:64 - close the browser
+ 2021-12-03 19:11:43,439  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-03 19:11:48,856  INFO [main] Login_cases:34 - Application URl is loaded
+ 2021-12-03 19:11:49,228  INFO [main] Login_cases:41 - Passed the value of username
+ 2021-12-03 19:11:49,273  INFO [main] Login_cases:43 - Passed the value of password
+ 2021-12-03 19:11:49,353  INFO [main] Hooks:64 - close the browser
+ 2021-12-05 10:29:27,511  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-05 10:29:27,876  INFO [main] Hooks:64 - close the browser
+ 2021-12-05 10:53:23,480  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-05 10:53:27,820  INFO [main] Login_cases:34 - Application URl is loaded
+ 2021-12-05 10:53:27,898  INFO [main] Hooks:65 - close the browser
+ 2021-12-05 10:53:29,829  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-05 10:53:34,527  INFO [main] Login_cases:34 - Application URl is loaded
+ 2021-12-05 10:53:34,592  INFO [main] Hooks:65 - close the browser
+ 2021-12-05 10:55:24,890  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-05 10:55:29,268  INFO [main] Login_cases:35 - Application URl is loaded
+ 2021-12-05 10:55:29,337  INFO [main] Hooks:65 - close the browser
+ 2021-12-05 10:55:31,306  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-05 10:55:35,620  INFO [main] Login_cases:35 - Application URl is loaded
+ 2021-12-05 10:55:35,663  INFO [main] Hooks:65 - close the browser
+ 2021-12-05 11:06:26,413  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-05 11:06:34,287  INFO [main] Login_cases:35 - Application URl is loaded
+ 2021-12-05 11:06:34,352  INFO [main] Hooks:65 - close the browser
+ 2021-12-05 11:06:35,854  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-05 11:06:40,265  INFO [main] Login_cases:35 - Application URl is loaded
+ 2021-12-05 11:06:40,312  INFO [main] Hooks:65 - close the browser
+ 2021-12-05 11:07:55,902  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-05 11:08:02,866  INFO [main] Login_cases:35 - Application URl is loaded
+ 2021-12-05 11:08:02,982  INFO [main] Login_cases:57 - Passed the value of username
+ 2021-12-05 11:08:03,083  INFO [main] Login_cases:59 - Passed the value of password
+ 2021-12-05 11:08:08,194  INFO [main] Login_cases:73 - login button is clicked
+ 2021-12-05 11:08:08,308  INFO [main] Login_cases:83 - User logged in successfully
+ 2021-12-05 11:08:08,385  INFO [main] Hooks:65 - close the browser
+ 2021-12-05 11:08:09,641  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-05 11:08:15,231  INFO [main] Login_cases:35 - Application URl is loaded
+ 2021-12-05 11:08:16,250  INFO [main] Login_cases:42 - Passed the value of username
+ 2021-12-05 11:08:16,355  INFO [main] Login_cases:44 - Passed the value of password
+ 2021-12-05 11:08:16,405  INFO [main] Hooks:65 - close the browser
+ 2021-12-05 11:10:36,845  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-05 11:10:43,076  INFO [main] Login_cases:35 - Application URl is loaded
+ 2021-12-05 11:10:43,190  INFO [main] Login_cases:57 - Passed the value of username
+ 2021-12-05 11:10:43,248  INFO [main] Login_cases:59 - Passed the value of password
+ 2021-12-05 11:10:48,176  INFO [main] Login_cases:73 - login button is clicked
+ 2021-12-05 11:10:48,291  INFO [main] Login_cases:83 - User logged in successfully
+ 2021-12-05 11:10:48,365  INFO [main] Hooks:65 - close the browser
+ 2021-12-05 11:10:49,602  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-05 11:10:56,203  INFO [main] Login_cases:35 - Application URl is loaded
+ 2021-12-05 11:10:56,600  INFO [main] Login_cases:42 - Passed the value of username
+ 2021-12-05 11:10:56,654  INFO [main] Login_cases:44 - Passed the value of password
+ 2021-12-05 11:11:02,252  INFO [main] Login_cases:73 - login button is clicked
+ 2021-12-05 11:11:02,347  INFO [main] Login_cases:83 - User logged in successfully
+ 2021-12-05 11:11:02,412  INFO [main] Hooks:65 - close the browser
+ 2021-12-06 20:08:13,562  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-06 20:28:55,154  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-06 20:29:09,521  INFO [main] Login_cases:35 - Application URl is loaded
+ 2021-12-06 20:29:10,508  INFO [main] Login_cases:42 - Passed the value of username
+ 2021-12-06 20:29:10,573  INFO [main] Login_cases:44 - Passed the value of password
+ 2021-12-06 20:29:16,207  INFO [main] Login_cases:73 - login button is clicked
+ 2021-12-06 20:29:16,302  INFO [main] Login_cases:83 - User logged in successfully
+ 2021-12-06 20:29:16,366  INFO [main] Hooks:65 - close the browser
+ 

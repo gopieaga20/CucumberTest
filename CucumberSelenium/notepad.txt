@@ -1,0 +1,17 @@
+
+FileNotFoundException - File path is wrong/filename is not matched
+IOException - empty value
+
+
+NoSuchElementException - findby is not find the element
+
+StaleElementReferenceException - 
+
+TimeoutException - wait conditions
+
+ElementNotVisibleException - element is in DOM page but it is not visible
+
+ElementNotSelectableException - element is disabled
+
+
+
